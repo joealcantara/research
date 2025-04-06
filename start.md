@@ -1,10 +1,10 @@
 # Preliminary Exploration Report: Pro-Poor AI Governance in the Philippines
 
-**Date Range of Exploration:** [Start Date] - [End Date]
+**Date Range of Exploration:** [7th April 2025] - [23rd April 2025]
 
-**Author:** [Your Name]
+**Author:** Joe Alcantara
 
-**Version:** 1.0 (Date: Sunday, April 6, 2025)
+**Version:** 0.1 (Date: Sunday, April 6, 2025)
 
 ---
 
